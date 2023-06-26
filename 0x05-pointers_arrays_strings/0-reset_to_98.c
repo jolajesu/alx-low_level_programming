@@ -10,14 +10,9 @@
  *
  */
 
-void reset_to_98(int *p)
+void reset_to_98(int *n)
 {
-	int n;
 
-	n = 12;
-	*p = 98;
-
-	printf("n=%d\n", n);
-	printf("*p=%d\n", *p);
+	*n = 98;
 
 }
