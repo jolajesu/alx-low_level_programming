@@ -12,7 +12,7 @@
 
 void print_rev(char *str)
 {
-	
+
 	int length = strlen(str);
 	int i;
 
